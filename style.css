@@ -1,0 +1,39 @@
+.Parent {
+    margin: 0 auto;
+    width: 70%;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+  }
+  
+  .child {
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 30%;
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+  }
+  
+  .child1 {
+    background-color: red;
+  }
+  
+  .child2 {
+    background-color: orange;
+  }
+  
+  .child3 {
+    background-color: green;
+  }
+  
+  .child4 {
+    background-color: blue;
+  }
